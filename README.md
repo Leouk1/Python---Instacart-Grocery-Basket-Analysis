@@ -80,7 +80,7 @@ Segmenting customers based on demographics and shopping behavior
 
 I followed industry-standard folder structure and naming conventions throughout the project, keeping the code clean, documented, and easy to follow.
 
-Deliverables
+## Deliverables
 
 This repository includes:
 
