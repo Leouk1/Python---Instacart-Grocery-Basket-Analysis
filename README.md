@@ -1,10 +1,10 @@
-Instacart Customer Segmentation Analysis (Python Project)
+# Instacart Customer Segmentation Analysis (Python Project)
 
 This project is part of Achievement 4 in my CareerFoundry Data Analytics program. I’m working as an analyst for Instacart, an online grocery delivery company. Instacart already performs well, but they want a deeper understanding of their customer behavior so they can improve how they target different customer groups.
 
 My job was to carry out an exploratory analysis of Instacart’s datasets and uncover sales patterns, customer habits, and meaningful segments. The insights from this project are meant to support a more focused marketing strategy and help Instacart send the right promotions to the right customers.
 
-Key Questions
+## Key Questions
 
 The Instacart team wants data-driven answers to several questions, including:
 
@@ -20,7 +20,7 @@ How do customer profiles differ in terms of brand loyalty, region, family status
 
 What patterns can we see in ordering habits across different demographic groups?
 
-These insights will help marketing and sales decide:
+## These insights will help marketing and sales decide:
 
 When to run ads
 
@@ -36,13 +36,13 @@ SVP of Sales — wants to understand weaker product areas and improve them
 
 Instacart Customers — want relevant recommendations and promotions
 
-Data
+## Data
 
 I worked with a mix of open-source Instacart datasets and a fictional customer dataset provided by CareerFoundry. All datasets share common identifiers, which allowed me to merge everything into one unified dataframe for analysis.
 
 The project uses:
 
-Instacart’s open-source 2017 dataset (via Kaggle)
+Instacart’s open-source 2017 dataset (via Kaggle) www.instacart.com/datasets/grocery-shopping-2017
 
 A synthetic customer dataset created for educational purposes
 
