@@ -28,7 +28,7 @@ Which products to promote
 
 How to tailor campaigns to specific customer types
 
-Stakeholders
+### Stakeholders
 
 VP of Marketing — wants to improve ad targeting
 
