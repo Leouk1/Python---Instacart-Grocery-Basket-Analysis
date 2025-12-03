@@ -6,7 +6,7 @@ My job was to carry out an exploratory analysis of Instacart’s datasets and un
 
 ## Key Questions
 
-The Instacart team wants data-driven answers to several questions, including:
+### The Instacart team wants data-driven answers to several questions, including:
 
 Which days of the week and times of day receive the most orders?
 
