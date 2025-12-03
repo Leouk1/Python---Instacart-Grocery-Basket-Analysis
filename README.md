@@ -20,7 +20,7 @@ How do customer profiles differ in terms of brand loyalty, region, family status
 
 What patterns can we see in ordering habits across different demographic groups?
 
-## These insights will help marketing and sales decide:
+### These insights will help marketing and sales decide:
 
 When to run ads
 
@@ -40,15 +40,15 @@ Instacart Customers — want relevant recommendations and promotions
 
 I worked with a mix of open-source Instacart datasets and a fictional customer dataset provided by CareerFoundry. All datasets share common identifiers, which allowed me to merge everything into one unified dataframe for analysis.
 
-The project uses:
+### The project uses:
 
 Instacart’s open-source 2017 dataset (via Kaggle) www.instacart.com/datasets/grocery-shopping-2017
 
 A synthetic customer dataset created for educational purposes
 
-Approach
+## Approach
 
-The full analysis was completed in Python, using:
+### The full analysis was completed in Python, using:
 
 pandas
 
@@ -62,7 +62,7 @@ SciPy
 
 Jupyter Notebook
 
-My workflow included:
+### My workflow included:
 
 Importing and checking all datasets
 
@@ -82,7 +82,7 @@ I followed industry-standard folder structure and naming conventions throughout 
 
 ## Deliverables
 
-This repository includes:
+### This repository includes:
 
 A structured project folder with scripts, notebooks, visual outputs, and reports
 
